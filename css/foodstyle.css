@@ -1,0 +1,31 @@
+a{
+	text-decoration: none;
+}
+.btn{
+	font-family:consolas;
+	display: inline-block;
+    padding: 6px 0px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+.btn-danger{
+	color: #fff;
+    background-color: #e32f2f;
+    border-color: #4cae4c;
+}

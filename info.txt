@@ -1,0 +1,3 @@
+admin =      email:s@gmail.com      pass:111
+manager=     email:sayan@gmail.com  pass:555
+customer=    email:esan@gmail.com   pass:112
